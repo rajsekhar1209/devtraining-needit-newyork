@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition">
+    <dl_definition action="DELETE">
+        <active>true</active>
+        <matcher_table>x_58872_needit_needit_request_type_options</matcher_table>
+        <name>Request Type Options</name>
+        <run_on_form_change>true</run_on_form_change>
+        <run_on_insert>true</run_on_insert>
+        <run_on_update>false</run_on_update>
+        <source_table>x_58872_needit_needit</source_table>
+        <sys_class_name>dl_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-29 06:21:56</sys_created_on>
+        <sys_id>1da50d07db620010a862112039961914</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request Type Options</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>dl_definition_1da50d07db620010a862112039961914</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-29 06:21:56</sys_updated_on>
+    </dl_definition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>25f65612dbdf53c04c1ff70fbf96194a</instance_id>
+        <instance_name>dev65354</instance_name>
+        <name>dl_definition_1da50d07db620010a862112039961914</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition"><dl_definition action="INSERT_OR_UPDATE"><active>true</active><matcher_table>x_58872_needit_needit_request_type_options</matcher_table><name>Request Type Options</name><run_on_form_change>true</run_on_form_change><run_on_insert>true</run_on_insert><run_on_update>false</run_on_update><source_table>x_58872_needit_needit</source_table><sys_class_name>dl_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-29 06:21:56</sys_created_on><sys_id>1da50d07db620010a862112039961914</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Request Type Options</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>dl_definition_1da50d07db620010a862112039961914</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-29 06:21:56</sys_updated_on></dl_definition></record_update>]]></payload>
+        <payload_hash>1354107249</payload_hash>
+        <record_name>Request Type Options</record_name>
+        <reverted_from/>
+        <source>a7460d76db660010a86211203996195c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-29 06:21:56</sys_created_on>
+        <sys_id>ffb58dc3db620010a86211203996199c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16feff6a6f40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-29 06:21:56</sys_updated_on>
+        <type>Data Lookup Definitions</type>
+        <update_guid>3bb58dc3f96200104f84721abd04879c</update_guid>
+        <update_guid_history>3bb58dc3f96200104f84721abd04879c:1354107249</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Request Type Options">0a9c45cbdb620010a8621120399619ef</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-29 06:51:51</sys_created_on>
+        <sys_db_object display_value="" name="dl_definition">dl_definition</sys_db_object>
+        <sys_id>5f02a49e63604e92b0f279db04b58531</sys_id>
+        <sys_metadata>1da50d07db620010a862112039961914</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request Type Options</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>dl_definition_1da50d07db620010a862112039961914</sys_update_name>
+        <sys_update_version display_value="dl_definition_1da50d07db620010a862112039961914">ffb58dc3db620010a86211203996199c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-29 06:51:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
